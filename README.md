@@ -1,9 +1,6 @@
 # MD_01
 Mājasdarbs_001 (Labojums)
 
-
-Mājas darbs
-
 Izveidot jaunu Controller klasi.
 Klasei jābūt nosauktai AvailabilityController.
 Klasei jāsatur 2 metodes.
